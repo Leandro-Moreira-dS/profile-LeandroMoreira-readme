@@ -7,120 +7,136 @@
 
 ---
 
-##  Sobre mim
+## <img src="https://cdn.simpleicons.org/github/0ea5e9" width="22"/> Sobre mim
 
-Sou desenvolvedor com foco em **automação de processos**, **desenvolvimento web** e **infraestrutura Linux**. Crio soluções que vão do site ao vivo até sistemas que controlam máquinas remotamente — unindo o melhor do low-code com código de verdade.
+Sou desenvolvedor com perfil híbrido: uno **engenharia de software**, **análise de dados**, **automação de processos** e **marketing digital** para entregar soluções completas — do código ao resultado de negócio.
 
-- Trabalho com automação inteligente usando **Make (Integromat)** e sistemas no-code/low-code
-- Desenvolvo sites e lojas completas em **WordPress + PHP**
-- Crio sistemas de **controle remoto de máquinas Linux** via PHP (Wake-on-LAN, SSH)
-- Prototipo e entrego sistemas completos com **Lovable**
-- Me pergunte sobre: automação, WordPress, PHP, Linux, Make.com
+- <img src="https://cdn.simpleicons.org/make/6D00CC" width="14"/> Automação inteligente com **Make.com**, **n8n** e integração entre sistemas via APIs
+- <img src="https://cdn.simpleicons.org/wordpress/21759B" width="14"/> Desenvolvimento web com **WordPress + PHP + Python + JavaScript**
+- <img src="https://cdn.simpleicons.org/linux/FCC624" width="14"/> Sistemas de **controle remoto de máquinas Linux** via PHP (Wake-on-LAN, SSH)
+- <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="14"/> Análise de dados com **SQL, Google Analytics, Data Studio e Excel**
+- <img src="https://cdn.simpleicons.org/googleads/4285F4" width="14"/> Marketing digital orientado a dados: **Meta Ads, Google Ads, SEO, GSC e GMC**
+- <img src="https://cdn.simpleicons.org/jira/0052CC" width="14"/> Gestão ágil de produtos com **Scrum/Kanban, Jira, Figma**
+- <img src="https://cdn.simpleicons.org/googlemaps/EA4335" width="14"/> Sou de **Manaus, Amazonas — Brasil**
 
 ---
 
 ##  Stack de Tecnologias
 
-### Linguagens & Back-end
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### <img src="https://cdn.simpleicons.org/git/F05032" width="16"/> Desenvolvimento & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### CMS & Web
+### <img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/> Fundamentos de Engenharia
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Algoritmos](https://img.shields.io/badge/Algoritmos%20%26%20Estrutura%20de%20Dados-0d1117?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+### <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="16"/> Análise de Dados & Performance
+![SQL](https://img.shields.io/badge/SQL%20Avançado-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white)
+
+### <img src="https://cdn.simpleicons.org/jira/0052CC" width="16"/> Gestão de Produto & Agilidade
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### <img src="https://cdn.simpleicons.org/google/4285F4" width="16"/> Marketing Digital & Web
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Merchant Center](https://img.shields.io/badge/Merchant%20Center-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Automação & Low-code
+### <img src="https://cdn.simpleicons.org/make/6D00CC" width="16"/> Automação & Low-code
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyMWwtMS40NS0xLjMyQzUuNCAxNS4zNiAyIDEyLjI4IDIgOC41IDIgNS40MiA0LjQyIDMgNy41IDNjMS43NCAwIDMuNDEuODEgNC41IDIuMDlDMTMuMDkgMy44MSAxNC43NiAzIDE2LjUgM0MxOS41OCAzIDIyIDUuNDIgMjIgOC41YzAgMy43OC0zLjQgNi44Ni04LjU1IDExLjIxTDEyIDIxeiIvPjwvc3ZnPg==&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Infraestrutura & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ---
 
-##  Projetos em Destaque
+## <img src="https://cdn.simpleicons.org/rocket/0ea5e9" width="22"/> Projetos em Destaque
 
-### 🖥️ [Linux Remote Manager](https://github.com/Leandro-Moreira-dS/linux-remote-manager)
+### <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> [Linux Remote Manager](https://github.com/Leandro-Moreira-dS/linux-remote-manager)
 > Sistema PHP completo para **controle remoto de máquinas Linux** via rede local.
 
-- ✅ Liga máquinas remotamente pelo **endereço MAC** (Wake-on-LAN)
-- ✅ Controle via **SSH** direto do terminal
-- ✅ Interface web para gerenciar múltiplas máquinas
-- 🔧 **Stack:** PHP · Bash · Linux · Wake-on-LAN · SSH
+- Liga máquinas remotamente pelo **endereço MAC** (Wake-on-LAN)
+- Controle via **SSH** direto do terminal
+- Interface web para gerenciar múltiplas máquinas
+- **Stack:** PHP · Bash · Linux · Wake-on-LAN · SSH
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### ⚙️ [Make Automations](https://github.com/Leandro-Moreira-dS/make-automations)
+### <img src="https://cdn.simpleicons.org/make/6D00CC" width="18"/> [Make Automations](https://github.com/Leandro-Moreira-dS/make-automations)
 > Coleção de automações profissionais construídas no **Make.com** (antigo Integromat).
 
-- ✅ Automações de **CRM e vendas** (leads, follow-up, notificações)
-- ✅ Integração entre **WhatsApp, Google Sheets, e-mail e APIs externas**
-- ✅ Workflows de **e-commerce** (pedidos, estoque, relatórios)
-- ✅ Documentação com prints e JSON de cada cenário
-- 🔧 **Ferramentas:** Make.com · Webhooks · REST APIs · Google Workspace
+- Automações de **CRM e vendas** (leads, follow-up, notificações)
+- Integração entre **WhatsApp, Google Sheets, e-mail e APIs externas**
+- Workflows de **e-commerce** (pedidos, estoque, relatórios)
+- Documentação com prints e JSON de cada cenário
+- **Ferramentas:** Make.com · Webhooks · REST APIs · Google Workspace
 
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 ---
 
-### 🌐 [WordPress Projects](https://github.com/Leandro-Moreira-dS/wordpress-projects)
+### <img src="https://cdn.simpleicons.org/wordpress/21759B" width="18"/> [WordPress Projects](https://github.com/Leandro-Moreira-dS/wordpress-projects)
 > Portfólio de **sites e lojas virtuais** desenvolvidos em WordPress.
 
-- ✅ Sites institucionais, portfólios e landing pages de alta conversão
-- ✅ Lojas WooCommerce com **gateways de pagamento** integrados
-- ✅ **Customizações PHP** avançadas (functions.php, plugins personalizados)
-- ✅ Otimização de performance e SEO técnico
-- 🔧 **Stack:** WordPress · PHP · WooCommerce · Elementor · ACF
+- Sites institucionais, portfólios e landing pages de alta conversão
+- Lojas WooCommerce com **gateways de pagamento** integrados
+- **Customizações PHP** avançadas (functions.php, plugins personalizados)
+- Otimização de performance e SEO técnico
+- **Stack:** WordPress · PHP · WooCommerce · Elementor · ACF
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
-### 🏗️ [Lovable Systems](https://github.com/Leandro-Moreira-dS/lovable-systems)
+### <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="18"/> [Lovable Systems](https://github.com/Leandro-Moreira-dS/lovable-systems)
 > Sistemas web completos prototipados e entregues com **Lovable**.
 
-- ✅ Sistemas de gestão (dashboards, relatórios, cadastros)
-- ✅ Aplicações SaaS com **autenticação e banco de dados**
-- ✅ Deploy rápido e escalável
-- 🔧 **Ferramentas:** Lovable · Supabase · React · Tailwind
+- Sistemas de gestão (dashboards, relatórios, cadastros)
+- Aplicações SaaS com **autenticação e banco de dados**
+- Deploy rápido e escalável
+- **Ferramentas:** Lovable · Supabase · React · Tailwind
 
 ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white)
 
 ---
 
-### 🔧 [PHP Utilities](https://github.com/Leandro-Moreira-dS/php-utilities)
+### <img src="https://cdn.simpleicons.org/php/777BB4" width="18"/> [PHP Utilities](https://github.com/Leandro-Moreira-dS/php-utilities)
 > Scripts e ferramentas PHP para **automação de servidores e redes**.
 
-- ✅ Wake-on-LAN via PHP
-- ✅ Monitoramento de rede e alertas por e-mail
-- ✅ Scripts de backup automatizado para Linux
-- ✅ API REST simples para integração com Make/Zapier
-- 🔧 **Stack:** PHP · Bash · Cron · Linux
+- Wake-on-LAN via PHP
+- Monitoramento de rede e alertas por e-mail
+- Scripts de backup automatizado para Linux
+- API REST simples para integração com Make/Zapier
+- **Stack:** PHP · Bash · Cron · Linux
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-##  Estatísticas do GitHub
+## <img src="https://cdn.simpleicons.org/githubactions/0ea5e9" width="22"/> Estatísticas do GitHub
 
 <div align="center">
 
@@ -138,7 +154,7 @@ Sou desenvolvedor com foco em **automação de processos**, **desenvolvimento we
 
 ---
 
-##  Onde me encontrar
+## <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/> Onde me encontrar
 
 <div align="center">
 
