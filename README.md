@@ -17,7 +17,7 @@ Sou desenvolvedor com perfil híbrido: uno **engenharia de software**, **anális
 - <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="14"/> Análise de dados com **SQL, Google Analytics, Data Studio e Excel**
 - <img src="https://cdn.simpleicons.org/googleads/4285F4" width="14"/> Marketing digital orientado a dados: **Meta Ads, Google Ads, SEO, GSC e GMC**
 - <img src="https://cdn.simpleicons.org/jira/0052CC" width="14"/> Gestão ágil de produtos com **Scrum/Kanban, Jira, Figma**
-- <img src="https://cdn.simpleicons.org/googlemaps/EA4335" width="14"/> Baseado em **Manaus, Amazonas — Brasil**
+- <img src="https://cdn.simpleicons.org/googlemaps/EA4335" width="14"/> De **Manaus, Amazonas — Brasil**
 
 ---
 
